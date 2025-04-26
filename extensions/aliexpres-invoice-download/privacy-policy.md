@@ -1,74 +1,67 @@
-# Privacy Policy for AliExpress Invoice Download Extension
+### Privacy Policy for AliExpress Invoice Download extension
 
-*Effective Date: April 16, 2025*
+*Effective Date: April 26, 2025*
 
-## Introduction
+#### **Introduction**
 
-This Privacy Policy describes how the AliExpress Invoice Download Extension ("we," "our," or "the Extension") handles and protects your information when you use our Chrome browser extension. We are committed to ensuring the privacy and security of your data while providing you with a seamless invoice downloading experience.
+This Privacy Policy describes how the AliExpress Invoice Download Extension ("we," "our," or "the Extension") handles your information. We are committed to protecting your privacy and ensuring your data remains secure while providing a seamless, business-grade invoice management experience for AliExpress users.
 
-## Information Collection
+#### **Information Collection**
 
-### What Information We Collect
+**What We Collect:**
+- **Order IDs & Invoice IDs:** The extension scans your AliExpress order pages for visible order IDs and fetches invoice IDs from AliExpress servers.
+- **Invoice PDFs:** For your convenience, official AliExpress invoice PDFs are downloaded and stored locally to enable instant access, offline use, and ZIP export.
+- **Cache Data:** The extension caches order IDs, invoice IDs, order dates, and invoice PDFs in your browser for performance and offline access.
 
-The AliExpress Invoice Download Extension collects only the following limited information:
+**How We Collect:**
+- **Page Scanning:** When you click "Reload List" or open the extension, it scans the visible AliExpress orders page for order IDs.
+- **API Requests:** The extension fetches invoice IDs and PDFs from AliExpress servers using only the order IDs found on your page.
+- **Filtering/Search:** When you use the filter/search bar, filtering is performed locally-no additional data is sent anywhere.
 
-- **Order IDs**: The Extension scans AliExpress order pages to identify order ID numbers that are already visible to you on the page.
-- **Invoice IDs**: The Extension retrieves invoice IDs from AliExpress servers that correspond to your order IDs.
-- **Cache Data**: For performance optimization, the Extension temporarily stores previously processed order IDs and their corresponding invoice IDs in your browser's local storage.
+#### **Use of Information**
 
-### How Information Is Collected
+Your data is used only to:
+1. Generate and display invoice download links and PDFs for your AliExpress orders.
+2. Enable advanced features such as bulk ZIP download, auto-prefetch, filtering, and grouping.
+3. Cache previously processed orders and PDFs for fast, offline, and bulk access.
+4. Ensure compliance for business, accounting, and tax purposes.
 
-- **Page Scanning**: When you click the "Generate Invoice Links" button or when the Extension runs automatically on an AliExpress orders page, it scans the current page for order IDs.
-- **API Requests**: The Extension makes requests to AliExpress servers to fetch invoice IDs using the order IDs found on the page.
-- **Manual Input**: When you manually enter an order ID in the Extension's interface, this information is processed to retrieve the corresponding invoice ID.
+**We do not use your information for marketing, analytics, or profiling purposes.**
 
-## Use of Information
+#### **Data Storage**
 
-The information collected is used solely for the following purposes:
+- **Local Only:** All order data and PDFs are stored locally in your browser using Chrome's storage API. No data is sent to our servers or any third party.
+- **No External Transmission:** The extension never uploads your order or invoice data to any external server. All communication is between your browser and AliExpress.
+- **Retention:** Cached data and PDFs remain until you clear them using "Clear Cache" in the extension settings.
 
-1. To generate invoice download links for your AliExpress orders
-2. To display a list of your orders and their corresponding invoice links within the Extension interface
-3. To cache previously processed orders to improve performance and avoid redundant API calls
+#### **Data Sharing**
 
-We do not use your information for any other purposes, including but not limited to marketing, analytics, or user profiling.
+- **No Sharing:** We do not share, sell, rent, or trade your data with any third party.
+- **AliExpress Only:** The only data transmission is between your browser and official AliExpress servers, as required to fetch invoice PDFs.
 
-## Data Storage
+#### **Your Rights and Control**
 
-- **Local Storage**: All order IDs and invoice IDs are stored locally on your device using browser local storage and Chrome's storage API. This information never leaves your browser except when making necessary API calls to AliExpress servers.
-- **No External Servers**: The Extension does not maintain any external servers and does not transmit your data to our own servers.
-- **Retention Period**: Cached data remains in your browser's local storage until you explicitly clear it using the "Clear Cache" button in the Extension's settings.
+- **View & Download:** You can view and download all invoices managed by the extension.
+- **Delete:** You can clear all cached data and PDFs at any time via "Clear Cache."
+- **Offline Use:** All invoices and PDFs remain accessible even when offline, until you clear the cache.
 
-## Data Sharing
+#### **Security**
 
-The AliExpress Invoice Download Extension does not share, sell, rent, or trade any information with third parties. The only data transmission that occurs is between your browser and AliExpress servers when fetching invoice IDs, which is necessary for the core functionality of the Extension.
+- **Local-Only Storage:** All data is stored on your device.
+- **Minimal Permissions:** The extension only requests permissions needed for its single purpose (see Chrome Web Store listing for details).
+- **No Sensitive Data:** No personal, financial, or authentication data is collected or stored.
+- **Official Domains Only:** The extension only communicates with official AliExpress domains.
 
-## Your Rights and Control
+#### **Changes to This Policy**
 
-You have complete control over your data:
+We may update this Privacy Policy. Updates will be posted on the Chrome Web Store listing and reflected in the "Effective Date" above. Please review periodically for any changes.
 
-- **View Stored Data**: You can view all stored order and invoice IDs in the Extension's interface.
-- **Delete Data**: You can clear all cached data at any time by using the "Clear Cache" button in the Settings tab.
-- **Manual Mode**: You can choose to use only the manual input feature without allowing the Extension to automatically scan pages.
+#### **Contact**
 
-## Security
+Questions or concerns?  
+Email: [contact@cloudforge.solutions](mailto:contact@cloudforge.solutions)
 
-We implement appropriate technical measures to protect your information:
+#### **Legal Compliance**
 
-- All data is stored locally on your device
-- The Extension only requests the minimum permissions necessary for its functionality
-- No sensitive authentication information is collected or stored
-- The Extension only communicates with official AliExpress domains
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Chrome Web Store listing and updating the "Effective Date" at the top of this policy. You are advised to review this Privacy Policy periodically for any changes.
-
-## Contact Information
-
-If you have any questions or concerns about this Privacy Policy or the AliExpress Invoice Download Extension, please contact us at contact@cloudforge.solutions.
-
-## Legal Compliance
-
-This Extension is provided under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
-
+This Extension is provided under the Apache License, Version 2.0.  
 Copyright © 2025 CloudForge, a subsidiary company of Acznowy Sp. z o.o. All rights reserved.
