@@ -1,0 +1,8 @@
+<svg width="21" height="22" viewBox="0 0 21 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ship">
+<path id="Vector" d="M18.9833 11.2036C19.8599 11.5562 20.4039 12.594 20.2024 13.5108L19.7893 15.3848C19.074 18.6089 16.5451 20.906 12.8979 20.906H8.10209C4.45486 20.906 1.92599 18.6089 1.21065 15.3848L0.797567 13.5108C0.596063 12.594 1.14012 11.5562 2.01666 11.2036L3.44735 10.6293L8.99879 8.40271C9.96601 8.01985 11.034 8.01985 12.0012 8.40271L17.5526 10.6293L18.9833 11.2036Z" stroke="#E67203" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M10.5 20.906V8.8158" stroke="#E67203" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M17.5526 6.80076V10.6293L12.0012 8.40271C11.034 8.01985 9.96602 8.01985 8.99881 8.40271L3.44736 10.6293V6.80076C3.44736 5.13835 4.80751 3.7782 6.46992 3.7782H14.5301C16.1925 3.7782 17.5526 5.13835 17.5526 6.80076Z" stroke="#E67203" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M13.0188 3.7782H7.9812V1.76316C7.9812 1.20902 8.43458 0.75564 8.98872 0.75564H12.0113C12.5654 0.75564 13.0188 1.20902 13.0188 1.76316V3.7782Z" stroke="#E67203" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
