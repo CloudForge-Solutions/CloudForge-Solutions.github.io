@@ -94,7 +94,7 @@ We may update this Privacy Policy. Updates will be posted at the policy URL belo
 Questions or concerns?
 Email: [contact@cloudforge.solutions](mailto:contact@cloudforge.solutions)
 
-Published policy URL: https://cloudforge-solutions.github.io/extensions/aliexpres-invoice-download/privacy-policy.md
+Published policy URL: https://raw.githubusercontent.com/CloudForge-Solutions/CloudForge-Solutions.github.io/refs/heads/main/extensions/aliexpres-invoice-download/privacy-policy-v3.md
 
 #### **Legal Compliance**
 
